@@ -1,2 +1,2 @@
-# Projeto_Sistema_de_Vendas_Trabalho_Faculdade_IFC
-Projeto Sistema de Vendas na Faculdade usando Java e Banco de Dados. obs: consistencia de dados, meta verificação
+# Projeto_Simulação_de_Evolução_e_multiplicação_Trabalho_Faculdade_IFC
+Projeto Simulção de Evolução e Multiplicação
